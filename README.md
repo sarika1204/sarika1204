@@ -1,5 +1,8 @@
 
 
+# Hi, I'm Sarika Gupta! 👋
+
+
 
 
 
@@ -7,17 +10,13 @@
 I'm a Data Analyst
 
 
-# Hi, I'm Sarika Gupta! 👋
+
 
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working on...
+👩‍💻 I'm currently working on Power BI, MyQL,Advance Excel
 
 🧠 I'm currently learning...
-
-👯‍♀️ I'm looking to collaborate on...
-
-🤔 I'm looking for help with...
 
 💬 Ask me about...
 
@@ -27,4 +26,6 @@ I'm a Data Analyst
 
 ⚡️ Fun fact...
 
+Tools-
 
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
