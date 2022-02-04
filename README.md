@@ -18,7 +18,7 @@ I'm a Data Analyst
 
 🧠 I'm currently learning...
 
-💬 Ask me about...
+💬 Ask me about Data Analysis
 
 📫 How to reach me- sarikagupta12488@gmail.com
 
