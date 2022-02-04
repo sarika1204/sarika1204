@@ -14,7 +14,7 @@ I'm a Data Analyst
 
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working on Power BI, MyQL,Advance Excel
+👩‍💻 I'm currently working on Power BI, MySQL,Advance Excel
 
 🧠 I'm currently learning...
 
