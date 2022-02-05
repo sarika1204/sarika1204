@@ -1,6 +1,8 @@
+![MasterHead](https://cdn.uarizonabootcamp.com/wp-content/uploads/sites/56/2020/07/tes_dta_blog_image_8.jpg)
+![MasterHead](https://cdn.mos.cms.futurecdn.net/XbYnCuVzbcHPHuYzCGuSmf.jpg)
+
+![MasterHead](http://greenartha-newgara.azurewebsites.net/task_data/files/1470658958banner-bigdata.jpg)
 # Hi, I'm Sarika Gupta! 👋
-
-
 
 
 
