@@ -31,8 +31,6 @@ Tools I worked on are
 
 
 
-
-
 ## 🔗 Links
 You can find my projects in the below links 
  https://github.com/sarika1204/Projects
