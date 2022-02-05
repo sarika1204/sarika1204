@@ -17,9 +17,7 @@ I have a total of 3+ years of work experience. I know skills such as Power BI, M
 
 Tools I worked on are
 
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p> <img align="left" alt="Coding" width="40" height="40"src="https://monstock.net/static/755095fb2b20762681bcf7cc9f3c47cb/994e1/c067634e-165b-40ec-8eeb-88e7f08ce050_powerbi_.png">
-
-
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://powerbi.microsoft.com/en-us//" target="_blank" rel="noreferrer"> <img src="https://monstock.net/static/755095fb2b20762681bcf7cc9f3c47cb/994e1/c067634e-165b-40ec-8eeb-88e7f08ce050_powerbi_.png" alt="powerBi" width="40" height="40")>
 
 
 
